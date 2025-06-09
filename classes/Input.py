@@ -2,6 +2,7 @@ import pygame
 from pygame.locals import *
 import sys
 
+#learning comment
 
 class Input:
     def __init__(self, entity):
